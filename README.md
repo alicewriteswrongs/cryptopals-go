@@ -1,4 +1,6 @@
 #Matasano challenges in Go
 
-I'm working through the Matasano crypto challenges
-([again](https://github.com/aliceriot/CryptoPals)...) to learn Go.
+## NOTE
+
+The contents of this repo have been merged into the web project that was formerly including this as
+a submodule. Check it out [here](https://github.com/aliceriot/literate-crypto).
